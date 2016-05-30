@@ -1,0 +1,29 @@
+name: DKEntertainment
+favicon: null
+layout_spectrum: 0.48971305578015745
+typography_spectrum: 0.42542606708593667
+title: DK Entertainment The Place To Build Your Music Career
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3678767445962876
+  lightness: 0.8878857460804284
+  saturation: 0.5490821513812989
+  rhythmicContrast: 0.017219315515831113
+purpose: []
