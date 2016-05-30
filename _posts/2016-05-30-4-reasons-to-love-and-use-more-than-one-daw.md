@@ -16,8 +16,8 @@ keywords:
   - sonar
   - sound
 description: 'The DAW wars continue to rage on, even in 2016, at a breakneck pace. Pro Tools vs. Logic vs. Ableton vs. Cubase and the like continue to dominate the blogs with impassioned defenses and rebuttals on all sides.'
-datePublished: '2016-05-30T05:58:04.715Z'
-dateModified: '2016-05-30T05:55:25.718Z'
+datePublished: '2016-05-30T06:03:35.064Z'
+dateModified: '2016-05-30T06:00:23.167Z'
 author:
   - name: ''
     url: ''
