@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.musicpromotoday.com/en/services/'
 inLanguage: null
 keywords: []
 description: "Choose from MusicPromoToday's services from branding, digital music marketing, video marketing, PR distribution to social media & email marketing."
-datePublished: '2016-05-30T05:58:05.079Z'
-dateModified: '2016-05-30T05:55:25.658Z'
+datePublished: '2016-05-30T06:03:26.843Z'
+dateModified: '2016-05-30T06:03:25.268Z'
 author:
   - name: ''
     url: ''
