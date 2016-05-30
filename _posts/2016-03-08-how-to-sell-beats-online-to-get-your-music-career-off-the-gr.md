@@ -16,8 +16,8 @@ keywords:
   - sales
   - instrumental
 description: 'If you know your way around a studio and are confident in your ability to compose instrumental tracks, you may have a viable product with the potential to earn money while helping you build a career in music. Selling beats can be a very lucrative decision, not to mention a wise move for your career as a whole.'
-datePublished: '2016-05-30T05:58:05.003Z'
-dateModified: '2016-05-30T05:55:25.864Z'
+datePublished: '2016-05-30T06:03:31.146Z'
+dateModified: '2016-05-30T06:00:15.077Z'
 author:
   - name: Kathleen
     url: 'http://talk.payloadz.com/author/kathleen/'
